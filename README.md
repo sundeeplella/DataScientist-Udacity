@@ -49,13 +49,12 @@ As the prices go up, the review ratings also remain high.
 This implies that at higher prices, listings generally are able to satisfy the higher demands and expectations of the travelers staying in the rooms.
 
 #### How do Seattle and Boston homeowners describe their houses? Is there a difference in the way top reviewed houses are described?
-Seattle Discussion At an aggregate level for overall listings within Seattle, the summaries seem to have the following words at a higher frequency: beautiful, comfortable, private home, being near downtown, things being available at walking distance. Capitol Hill area also seems to be very popular.
+Seattle Discussion At an aggregate level for overall listings within Seattle, the summaries seem to have the following words at a higher frequency: quiet, private house,close to downtown, things being accessible at strolling separation.
 
 When you compare it against the top 25 percentile homes in Seattle (75th percentile for review ratings in Seattle is 99), majority of the words are similar. However, there are few interesting words which had higher frequency amongst those with high ratings. These are neighborhood, kitchen, large, and downtown.
 
-Boston Discussion At an aggregate level for overall listings within Boston, the summaries seem to have the following words at a higher frequency: downtown, Back bay location, beautiful, park, South end, private home, and park.
-
-When you compare it against the top 25 percentile homes in Boston (75th percentile for review ratings in Boston is 98), majority of the words are similar. However, there are few interesting words which had higher frequency amongst those with high ratings. These are neighbourhood, located, being near restaurant, and close. Being close to happening places, seem to be the major driver behind getting higher ratings in Boston as per the word cloud.
+Boston Discussion At an aggregate level for overall listings within Boston, the summaries seem to have the following words at a higher frequency:downtown,parking,home living kitchen,,restaurant,neighborhood, Spacious.
+When you compare it against the top 25 percentile homes in Boston (75th percentile for review ratings in Boston is 98), majority of the words are similar. However, there are few interesting words which had higher frequency amongst those with high ratings. These are downtown,parking,home living kitchen,,restaurant,neighborhood, Spacious, and private. Being close to happening places, seem to be the major driver behind getting higher ratings in Boston as per the word cloud.
 
 #### What are the best neighbourhoods to stay in Seattle and Boston?
 In Seattle, Southeast Magnolia is the best neighborhood for Airbnb rooms.
