@@ -1,12 +1,12 @@
 ### Table of Contents
 <b> </b>
-- Project Motivation
-- Questions answered
-- Libraries used:
-- Files in the Repository
-- Blog Post Link
-- Summary of Analysis - Does price have any impact on review scores in Seattle and Boston? - How do Seattle and Boston homeowners describe their houses? Is there a difference in   the way top reviewed houses are described? - What are the best neighbourhoods to stay in Seattle and Boston?
-- Acknowledgements 
+- [Project Motivation](#[Project Motivation)
+- [Questions answered](#Questions answered)
+- [Libraries used](#Libraries used)
+- [Files in the Repository](#Files in the Repository)
+- [Blog Post Link](#Blog Post Link)
+- [Summary of Analysis](#) - Does price have any impact on review scores in Seattle and Boston? - How do Seattle and Boston homeowners describe their houses? Is there a difference in   the way top reviewed houses are described? - What are the best neighbourhoods to stay in Seattle and Boston?
+- [Acknowledgements](#Acknowledgements)
 
 ### Project Motivation
 This project is being done as a part of the Udacity's Data Scientist Nano Degree program Term 2. The project is later used to convey the results using a Blog post.
