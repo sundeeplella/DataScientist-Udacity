@@ -1,11 +1,11 @@
 ### Table of Contents
 <b> </b>
-- [Project Motivation](#[Project Motivation)
-- [Questions answered](#Questions answered)
-- [Libraries used](#Libraries used)
-- [Files in the Repository](#Files in the Repository)
-- [Blog Post Link](#Blog Post Link)
-- [Summary of Analysis](#Summary of Analysis) 
+- [Project Motivation](#[ProjectMotivation)
+- [Questions answered](#Questionsanswered)
+- [Libraries used](#Librariesused)
+- [Files in the Repository](#FilesintheRepository)
+- [Blog Post Link](#BlogPostLink)
+- [Summary of Analysis](#SummaryofAnalysis) 
 - [Acknowledgements](#Acknowledgements)
 
 ### Project Motivation
