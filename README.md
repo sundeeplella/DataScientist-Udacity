@@ -34,8 +34,8 @@ We will explore the Airbnb Seattle and Boston data and answer 3 major questions
 - Boston_listings.csv - Raw Boston listings data as of February 09, 2019 provided by Inside Airbnb team. Data can be found here
 - Seattle_cleaned.csv - Cleaned csv file generated after few modifications done on the original data set of Seattle listings.
 - Boston_cleaned.csv - Cleaned csv file generated after few modifications done on the original data set of Boston listings.
-- Airbnb_Seattle_Boston.ipynb - Jupyter notebook containing all the data exploration and analysis done for the 3 questions I intended to answer.
-- Airbnb_Seattle_Boston.html - The HTML file of the jupyter notebook. It is always advisable to save your work as HTML for future reference and to share with those who do not     have jupyter notebook running in their systems.
+- Airbnb Listings for Seattle and Boston.ipynb - Jupyter notebook containing all the data exploration and analysis done for the 3 questions I intended to answer.
+- Airbnb Listings for Seattle and Boston.html - The HTML file of the jupyter notebook. It is always advisable to save your work as HTML for future reference and to share with those who do not     have jupyter notebook running in their systems.
 
 #### Blog Post Link
 <b></b>
