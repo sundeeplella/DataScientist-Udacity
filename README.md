@@ -5,7 +5,7 @@
 - [Libraries used](#Libraries used)
 - [Files in the Repository](#Files in the Repository)
 - [Blog Post Link](#Blog Post Link)
-- [Summary of Analysis](#) - Does price have any impact on review scores in Seattle and Boston? - How do Seattle and Boston homeowners describe their houses? Is there a difference in   the way top reviewed houses are described? - What are the best neighbourhoods to stay in Seattle and Boston?
+- [Summary of Analysis](#Summary of Analysis) 
 - [Acknowledgements](#Acknowledgements)
 
 ### Project Motivation
